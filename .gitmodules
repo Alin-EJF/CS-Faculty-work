@@ -7,3 +7,6 @@
 [submodule "JavaLabs"]
 	path = JavaLabs
 	url = https://github.com/Alintdg/PA.git
+[submodule "MixedReality-Project"]
+	path = MixedReality-Project
+	url = https://github.com/Alintdg/MazeWarfare
