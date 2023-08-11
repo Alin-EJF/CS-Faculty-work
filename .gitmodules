@@ -1,0 +1,9 @@
+[submodule "PythonLabs"]
+	path = PythonLabs
+	url = https://github.com/Alintdg/PythonLabs.git
+[submodule "MixedReality"]
+	path = MixedReality
+	url = https://github.com/Alintdg/IMR.git
+[submodule "JavaLabs"]
+	path = JavaLabs
+	url = https://github.com/Alintdg/PA.git
